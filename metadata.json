@@ -1,0 +1,5 @@
+{
+  "name": "Skull Base Tumor Diagnostic Algorithm",
+  "description": "An interactive, gamified decision support tool for radiologists to categorize skull base tumors based on localization, enhancement, and imaging features.",
+  "requestFramePermissions": []
+}
